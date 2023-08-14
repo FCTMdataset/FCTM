@@ -1,1 +1,3 @@
 # FCTM
+--fakeDocumentImage
+--grounTruth
